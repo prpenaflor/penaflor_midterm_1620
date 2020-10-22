@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background: #F6F0ED;
+}
+
+nav {
+    background-color: #C09187; 
+}
+
+p {
+    font-family: 'Roboto Slab', serif;
+    font-size: large
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px
+}
+
+img {
+    max-height: 300px
+    
+}
